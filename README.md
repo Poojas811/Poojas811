@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pooja kumari s
+- 👀 I’m interested in C++ | java | Web Development | Android Development 
+- 🌱 I’m currently persuing 3rd year Engineering in Information science and Technology
+- 💞️ I’m looking to collaborate with coders.
